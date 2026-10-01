@@ -87,12 +87,12 @@ Focused, lightweight, and native tools built to enhance your everyday workflow.
 
 <div class="app-grid">
 
-  <!-- App 1 -->
+  <!-- Desktop Rover -->
   <div class="app-card">
     <div>
       <div class="app-header">
-        <img class="app-icon" src="assets/icons/app1.png" alt="App 1 Icon" />
-        <h3 class="app-title">App One</h3>
+        <img class="app-icon" src="assets/icons/Rover_128.png" alt="Rover Icon" />
+        <h3 class="app-title">Desktop Rover</h3>
       </div>
       <p class="app-desc">Brief, impactful one-line elevator pitch highlighting the primary benefit of the app.</p>
     </div>
@@ -102,12 +102,12 @@ Focused, lightweight, and native tools built to enhance your everyday workflow.
     </div>
   </div>
 
-  <!-- App 2 -->
+  <!-- Desktop Felix -->
   <div class="app-card">
     <div>
       <div class="app-header">
-        <img class="app-icon" src="assets/icons/app2.png" alt="App 2 Icon" />
-        <h3 class="app-title">App Two</h3>
+        <img class="app-icon" src="assets/icons/Felix_128" alt="Felix Icon" />
+        <h3 class="app-title">Desktop Felix</h3>
       </div>
       <p class="app-desc">Brief, impactful one-line elevator pitch highlighting the primary benefit of the app.</p>
     </div>
@@ -117,12 +117,12 @@ Focused, lightweight, and native tools built to enhance your everyday workflow.
     </div>
   </div>
 
-  <!-- App 3 -->
+  <!-- F1-Gantry -->
   <div class="app-card">
     <div>
       <div class="app-header">
-        <img class="app-icon" src="assets/icons/app3.png" alt="App 3 Icon" />
-        <h3 class="app-title">App Three</h3>
+        <img class="app-icon" src="assets/icons/F1Gantry_128.png" alt="F1-Gantry Icon" />
+        <h3 class="app-title">F1-Gantry</h3>
       </div>
       <p class="app-desc">Brief, impactful one-line elevator pitch highlighting the primary benefit of the app.</p>
     </div>
@@ -132,12 +132,12 @@ Focused, lightweight, and native tools built to enhance your everyday workflow.
     </div>
   </div>
 
-  <!-- App 4 -->
+  <!-- Image-Peek -->
   <div class="app-card">
     <div>
       <div class="app-header">
-        <img class="app-icon" src="assets/icons/app4.png" alt="App 4 Icon" />
-        <h3 class="app-title">App Four</h3>
+        <img class="app-icon" src="assets/icons/ImagePeek_128.png" alt="Image-Peek Icon" />
+        <h3 class="app-title">Image-Peek</h3>
       </div>
       <p class="app-desc">Brief, impactful one-line elevator pitch highlighting the primary benefit of the app.</p>
     </div>
@@ -147,12 +147,12 @@ Focused, lightweight, and native tools built to enhance your everyday workflow.
     </div>
   </div>
 
-  <!-- App 5 -->
+  <!-- Audio_Peek -->
   <div class="app-card">
     <div>
       <div class="app-header">
-        <img class="app-icon" src="assets/icons/app5.png" alt="App 5 Icon" />
-        <h3 class="app-title">App Five</h3>
+        <img class="app-icon" src="assets/icons/AudioPeek_128.png" alt="Audio-Peek Icon" />
+        <h3 class="app-title">Audio-Peek</h3>
       </div>
       <p class="app-desc">Brief, impactful one-line elevator pitch highlighting the primary benefit of the app.</p>
     </div>
@@ -162,12 +162,12 @@ Focused, lightweight, and native tools built to enhance your everyday workflow.
     </div>
   </div>
 
-  <!-- App 6 -->
+  <!-- Video-Peek -->
   <div class="app-card">
     <div>
       <div class="app-header">
-        <img class="app-icon" src="assets/icons/app6.png" alt="App 6 Icon" />
-        <h3 class="app-title">App Six</h3>
+        <img class="app-icon" src="assets/icons/VideoPeek_128.png" alt="Video-Peek Icon" />
+        <h3 class="app-title">Video-Peek</h3>
       </div>
       <p class="app-desc">Brief, impactful one-line elevator pitch highlighting the primary benefit of the app.</p>
     </div>
