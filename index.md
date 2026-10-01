@@ -87,7 +87,7 @@ description: Thoughtfully crafted utilities and tools for macOS.
   }
 </style>
 
-## Crafted for macOS
+## Crafted exclusively for macOS
 
 Focused, lightweight, and native tools built to enhance your everyday workflow.
 
