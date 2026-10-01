@@ -40,9 +40,15 @@ description: Thoughtfully crafted utilities and tools for macOS.
     flex-shrink: 0;
   }
   .app-title {
-    margin: 8;
-    font-size: 1.25rem;
-    font-weight: 600;
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+  }
+
+  /* Disables Architect's negative-offset '///' prefix */
+  .app-title:before {
+    content: none !important;
+    display: none !important;
   }
   .app-desc {
     color: #586069;
