@@ -40,7 +40,7 @@ description: Thoughtfully crafted utilities and tools for macOS.
     flex-shrink: 0;
   }
   .app-title {
-    margin: 0;
+    margin: 8;
     font-size: 1.25rem;
     font-weight: 600;
   }
