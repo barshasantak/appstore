@@ -188,4 +188,4 @@ Focused, lightweight, and native tools built to enhance your everyday workflow.
 ---
 
 ### Need Support or Have Feedback?
-Contact us at [support@yourdomain.com](mailto:support@yourdomain.com) or view our [Privacy Policy](https://USERNAME.github.io/privacy-repo/).
+Contact us by creating an issue for the respective app at [https://forms.gle/XDUkjJ2TJzEruakX9](https://forms.gle/XDUkjJ2TJzEruakX9).
