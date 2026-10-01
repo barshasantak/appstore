@@ -106,7 +106,7 @@ Focused, lightweight, and native tools built to enhance your everyday workflow.
   <div class="app-card">
     <div>
       <div class="app-header">
-        <img class="app-icon" src="assets/icons/Felix_128" alt="Felix Icon" />
+        <img class="app-icon" src="assets/icons/Felix_128.png" alt="Felix Icon" />
         <h3 class="app-title">Desktop Felix</h3>
       </div>
       <p class="app-desc">Brief, impactful one-line elevator pitch highlighting the primary benefit of the app.</p>
