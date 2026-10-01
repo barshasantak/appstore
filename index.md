@@ -185,7 +185,7 @@ Focused, lightweight, and native tools built to boost productivity and enhance y
 
 </div>
 
----
+ <br>
 
 ### Need Support or Have Feedback?
 Contact us by creating an issue for the respective app at [https://forms.gle/XDUkjJ2TJzEruakX9](https://forms.gle/XDUkjJ2TJzEruakX9).
