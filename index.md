@@ -89,7 +89,7 @@ description: Thoughtfully crafted utilities and tools for macOS.
 
 ## Crafted exclusively for macOS
 
-Focused, lightweight, and native tools built to enhance your everyday workflow.
+Focused, lightweight, and native tools built to boost productivity and enhance your everyday workflow.
 
 <div class="app-grid">
 
@@ -189,3 +189,12 @@ Focused, lightweight, and native tools built to enhance your everyday workflow.
 
 ### Need Support or Have Feedback?
 Contact us by creating an issue for the respective app at [https://forms.gle/XDUkjJ2TJzEruakX9](https://forms.gle/XDUkjJ2TJzEruakX9).
+
+
+ <br>
+ 
+ <hr>
+ 
+ <small>*© 2026 Santak Das, Tara Design Studio. All rights reserved.*</small>
+
+ <br>
