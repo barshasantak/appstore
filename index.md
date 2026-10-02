@@ -100,7 +100,7 @@ Focused, lightweight, and native tools built to boost productivity and enhance y
         <img class="app-icon" src="assets/icons/Rover_128.png" alt="Rover Icon" />
         <h3 class="app-title">Desktop Rover</h3>
       </div>
-      <p class="app-desc">Brief, impactful one-line elevator pitch highlighting the primary benefit of the app.</p>
+      <p class="app-desc">Your Loyal Desktop Companion: Rover stays by your side, watches over your Mac, and keeps you company through every task. He's the loyal and dependable friend you need.</p>
     </div>
     <div class="app-actions">
       <a href="https://USERNAME.github.io/app-one-repo/" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
@@ -115,7 +115,7 @@ Focused, lightweight, and native tools built to boost productivity and enhance y
         <img class="app-icon" src="assets/icons/Felix_128.png" alt="Felix Icon" />
         <h3 class="app-title">Desktop Felix</h3>
       </div>
-      <p class="app-desc">Brief, impactful one-line elevator pitch highlighting the primary benefit of the app.</p>
+      <p class="app-desc">Your Curious Desktop Companion: Felix explores, observes, and brings a touch of curiosity to your workspace. He helps you stay healthy and keeps an eye on your Mac.</p>
     </div>
     <div class="app-actions">
       <a href="https://USERNAME.github.io/app-two-repo/" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
@@ -130,7 +130,7 @@ Focused, lightweight, and native tools built to boost productivity and enhance y
         <img class="app-icon" src="assets/icons/F1Gantry_128.png" alt="F1-Gantry Icon" />
         <h3 class="app-title">F1-Gantry</h3>
       </div>
-      <p class="app-desc">Brief, impactful one-line elevator pitch highlighting the primary benefit of the app.</p>
+      <p class="app-desc">Lights Out: An app simulating the official FIA Formula 1 starting gantry, with sub-millisecond reaction telemetry, jump-start penalty validation and competitive timing leaderboard.</p>
     </div>
     <div class="app-actions">
       <a href="https://USERNAME.github.io/app-three-repo/" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
@@ -145,7 +145,7 @@ Focused, lightweight, and native tools built to boost productivity and enhance y
         <img class="app-icon" src="assets/icons/ImagePeek_128.png" alt="Image-Peek Icon" />
         <h3 class="app-title">Image-Peek</h3>
       </div>
-      <p class="app-desc">Brief, impactful one-line elevator pitch highlighting the primary benefit of the app.</p>
+      <p class="app-desc">Elevate Your Digital Photography & Imaging Workflow: Native, high-performance image spec analyzer, deep EXIF/optical inspector, and A-B image comparator built for macOS.</p>
     </div>
     <div class="app-actions">
       <a href="https://USERNAME.github.io/app-four-repo/" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
@@ -160,7 +160,7 @@ Focused, lightweight, and native tools built to boost productivity and enhance y
         <img class="app-icon" src="assets/icons/AudioPeek_128.png" alt="Audio-Peek Icon" />
         <h3 class="app-title">Audio-Peek</h3>
       </div>
-      <p class="app-desc">Brief, impactful one-line elevator pitch highlighting the primary benefit of the app.</p>
+      <p class="app-desc">Elevate Your Audio Workflow: The native, studio-grade audio specification analyzer and side-by-side A-B diff comparator engineered exclusively for macOS.</p>
     </div>
     <div class="app-actions">
       <a href="https://USERNAME.github.io/app-five-repo/" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
@@ -175,7 +175,7 @@ Focused, lightweight, and native tools built to boost productivity and enhance y
         <img class="app-icon" src="assets/icons/VideoPeek_128.png" alt="Video-Peek Icon" />
         <h3 class="app-title">Video-Peek</h3>
       </div>
-      <p class="app-desc">Brief, impactful one-line elevator pitch highlighting the primary benefit of the app.</p>
+      <p class="app-desc">Elevate Your Video Mastering & Workflow: The native, studio-grade video specification analyzer and side-by-side A-B diff comparator engineered exclusively for macOS.</p>
     </div>
     <div class="app-actions">
       <a href="https://USERNAME.github.io/app-six-repo/" target="_blank" rel="noopener" class="btn btn-secondary">Learn More</a>
